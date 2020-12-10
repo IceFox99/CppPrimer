@@ -1,0 +1,8 @@
+# Visual Studio files and folder
+**/.vs/
+**/Debug/
+**/test/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
