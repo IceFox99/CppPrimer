@@ -1,11 +1,10 @@
 # Visual Studio files and folder
-**/.vs/
-**/Debug/
+/Chapter[0-1][0-9]/.vs/
+/Chapter[0-1][0-9]/Debug/
 **.sln
 **.vcxproj
 **.vcxproj.filters
 **.vcxproj.user
 
 # Test file
-test.*
-**/test/
+/Chapter[0-1][0-9]/test/
