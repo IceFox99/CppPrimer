@@ -1,0 +1,2 @@
+D:\STUDY\PROGRAMMING\C++\CppPrimerSolutions\Chapter05\x64\Debug\Chapter05.exe
+D:\STUDY\PROGRAMMING\C++\CppPrimerSolutions\Chapter05\x64\Debug\Chapter05.pdb
